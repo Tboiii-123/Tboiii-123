@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tboiii-123
+- 👋 Hi, I’m Hussein
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on both front end and back end projects
