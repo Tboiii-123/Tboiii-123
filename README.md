@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hussein
-- 👀 I’m interested in coding and reading
+- 👀 I’m interested in coding and reading,listening to music
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on both front end and back end projects
 - 📫 How to reach me.You can reach me on my whatsapp  +234 9035014430
